@@ -28,5 +28,3 @@ An interactive Tableau dashboard providing insights into Amazon Prime's user act
 2. Create a feature branch
 3. Submit a pull request
 
-## License
-MIT License
